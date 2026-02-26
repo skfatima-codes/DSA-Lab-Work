@@ -104,16 +104,19 @@ To understand recursion flow and hierarchical data structure.
 
 ---
 
-## 7️⃣ Hashing (Closed Hashing)
+## 7️⃣ (a) Hashing (Closed Hashing)
 
 Contains:
 
 - Linear Probing
 - Quadratic Probing
+  
+  ### (b) Open Hashing (Separate Chaining)
+- Hash Table using Linked List
+- Collision Handling using Chaining
 
 **Purpose:**  
-To understand collision handling in hash tables.
-
+To understand different collision resolution techniques and compare Closed vs Open Hashing approaches.
 ---
 
 ## 🛠 Language & Tools
