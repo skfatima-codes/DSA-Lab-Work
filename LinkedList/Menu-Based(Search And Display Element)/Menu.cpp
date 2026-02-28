@@ -29,7 +29,7 @@ void insertAtEnd(Node* &head, int value) {
     temp->next = newNode; // last ko new se jor do
 }
 
-// 🔹 Print list
+//  Print list
 void printList(Node* head) {
 
     if (head == NULL) {
@@ -45,7 +45,7 @@ void printList(Node* head) {
     cout << "NULL\n";
 }
 
-// 🔹 Search function
+//  Search function
 bool search(Node* head, int key) {
 
     Node* temp = head;
