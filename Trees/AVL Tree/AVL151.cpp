@@ -112,7 +112,7 @@ int main() {
     root = insertAVL(root, 102);
     root = insertAVL(root, 110);
 
-    cout << "Inorder (sorted hona chahiye): ";
+    cout << "Inorder";
     inorder(root);
     cout << endl;
 
